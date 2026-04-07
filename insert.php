@@ -1,6 +1,6 @@
 <?php
 // === FIXED & SECURE insert.php ===
-$servername = "sprenvonixdatabase.cg3qee2cupk4.us-east-1.rds.amazonaws.com";
+$servername = "sprevonix-db.cl6mik6om7h1.us-east-1.rds.amazonaws.com";
 $username   = "admin";
 $password   = "Admin123456";
 $dbname     = "contactdb";
